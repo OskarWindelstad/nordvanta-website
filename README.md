@@ -1,35 +1,40 @@
-# Nordvanta – nettside
+# Nordvanta
 
-En responsiv norsk firmaside bygget med React, TypeScript, Vite og Tailwind CSS.
+**Smarter workflows. Better business.**
 
-## Kom i gang
+Nordvanta is a technology company focused on helping businesses improve their workflows through software development, automation, AI and digital solutions.
+
+## What We Do
+
+- **Software Development** – Custom web applications and digital solutions.
+- **Automation & AI** – Streamlining workflows and reducing manual tasks.
+- **Integrations** – Connecting systems, APIs and business tools.
+- **Digital Consulting** – Helping businesses identify and implement better digital solutions.
+
+## Products
+
+**ElektroFlow** – A software concept designed to simplify workflows and documentation for electrical contractors.
+
+## Technology
+
+This website is built using:
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+
+## Getting Started
 
 ```bash
 npm install
 npm run dev
 ```
 
-Åpne adressen Vite viser i terminalen.
+## Location
 
-## Produksjonsbygg
+Bergen, Norway
 
-```bash
-npm run build
-npm run preview
-```
+---
 
-## Før publisering
-
-- Bytt ut konseptlogoen dersom ønsket endelig logo blir annerledes.
-- Koble kontaktskjemaet til en faktisk e-posttjeneste eller backend. Skjemaet er foreløpig kun en frontend-demo.
-- Legg inn reell kontaktinformasjon og organisasjonsnummer når selskapet er registrert.
-- Publiser personvernerklæring og oppdater samtykketeksten for skjemaet.
-- Bytt ut eventuelle illustrasjoner med egne, lisensierte bilder eller lokale bildefiler.
-- Kontroller at Nordvanta-navnet og domenet er tilgjengelig før offentlig lansering.
-
-## Struktur
-
-- `src/App.tsx` – sidens seksjoner og innhold
-- `src/components/Logo.tsx` – gjenbrukbar logo
-- `src/index.css` – Tailwind og designsystem
-- `tailwind.config.js` – farger, fonter og skygger
+© 2026 Nordvanta. All rights reserved.
